@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fsi8av0ba-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fsi8av0ba-python-gitops
